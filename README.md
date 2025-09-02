@@ -18,8 +18,8 @@ User Privacy: The app ensures that emergency notifications are sent only when an
 
 ## Screenshot
 
+<img src="https://github.com/user-attachments/assets/28ca6768-efe8-4f7e-bee8-2739a55f6db5" alt="img3" height="400"  />  
+<img src="https://github.com/user-attachments/assets/7705385f-e21b-4143-af98-469b39c23cef" alt="img4" height="400"  />  
 <img src="https://github.com/user-attachments/assets/7da17608-6181-41a1-95df-2af8c3465ef6" alt="img2" height="400"  /> 
-<img src="https://github.com/user-attachments/assets/28ca6768-efe8-4f7e-bee8-2739a55f6db5" alt="img3" height="400"  /> 
-<img src="https://github.com/user-attachments/assets/7705385f-e21b-4143-af98-469b39c23cef" alt="img4" height="400"  />
 <img src="https://github.com/user-attachments/assets/cffa00b0-5a42-498e-b633-dac71f16e6b6" alt="img1" height="400"  /> 
 
