@@ -16,7 +16,7 @@ Background Operation: The app works silently in the background, so the user does
 
 User Privacy: The app ensures that emergency notifications are sent only when an actual trigger is detected, thereby reducing the chances of false alarms.
 
-##Screenshot
+## Screenshot
 
 <img src="https://github.com/user-attachments/assets/7da17608-6181-41a1-95df-2af8c3465ef6" alt="img2" height="400"  /> 
 <img src="https://github.com/user-attachments/assets/28ca6768-efe8-4f7e-bee8-2739a55f6db5" alt="img3" height="400"  /> 
